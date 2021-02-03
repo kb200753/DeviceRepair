@@ -4,5 +4,6 @@ public class DeviceRepair3C {
 
         Device mydevice = new Device("1311", "Lenovo 3", "Julie", "Smashed screen", "need to repair screen", 1);
         System.out.println(mydevice.getIdentificationCode());
+
     }
 }
